@@ -1,1 +1,1 @@
-# Simulation and Stistics in Python
+# Simulation and Staistics in Python
